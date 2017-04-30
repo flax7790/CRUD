@@ -1,4 +1,4 @@
-<form method="post" action="index.php">
+<form method="post" action="create.php">
     <input type="text" placeholder="name" name="name">
     <br>
     <input type="text" placeholder="description" name="description">
